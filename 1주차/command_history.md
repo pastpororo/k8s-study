@@ -1,6 +1,6 @@
 
 
-
+```
 ## brew install kind
 ==> Auto-updating Homebrew...
 Adjust how often this is run with HOMEBREW_AUTO_UPDATE_SECS or disable with
@@ -610,3 +610,4 @@ timeserver-c744b9c65-tc7mc    0/1     ImagePullBackOff    0          17s
 kubectl delete deploy,svc timeserver 
 deployment.apps "timeserver" deleted
 service "timeserver" deleted
+```
